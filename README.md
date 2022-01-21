@@ -1,6 +1,6 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/9c5q5ob8rl2x6qp6?svg=true)](https://ci.appveyor.com/project/a-naraikin/n-ra-hw-1-components-store-func)
 
-## [веб-сайт](https://a-naraikin.github.io/n-ra-hw.-1_components_store-func/)
+## [Ссылка на Github Pages](https://a-naraikin.github.io/n-ra-hw.-1_components_store-func/)
 
 ## Домашняя работа «Страница интернет-магазина (функциональный компонент)»
 
